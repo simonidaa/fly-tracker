@@ -6,10 +6,10 @@ The system is particularly useful for researchers studying the genetics and beha
 
 ## Features
 
--Novel algorithm based on the Hungarian algorithm for tracking fly interactions
--Object tracking using OpenCV computer vision library
--Automated selection of model parameters
--Visualization of tracking results
+- Novel algorithm based on the Hungarian algorithm for tracking fly interactions
+- Object tracking using OpenCV computer vision library
+- Automated selection of model parameters
+- Visualization of tracking results
 
 The Fly Tracker system utilizes the Hungarian algorithm for assigning fly identities in each frame of the video. It also uses the OpenCV computer vision library for object tracking, allowing for accurate tracking of fly movement and behavior.
 
