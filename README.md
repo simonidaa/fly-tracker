@@ -1,0 +1,3 @@
+# Fly Tracker
+
+Fly Tracker is a system for tracking interactions of Drosophila with and without fragile X chromosome. The model is based on tracking the number of interactions of each fly, the duration of their interactions, as well as comparing the results obtained with the results of a reference paper. The differences in the performance of both algorithms on a 10-fly video are negligible, but errors are observed when mixing flies in the reference paper. With a group of 31 flies, the error increases, and the implemented model shows greater robustness compared to the reference paper. One of the main advantages is the complete automation of selecting all model parameters.
